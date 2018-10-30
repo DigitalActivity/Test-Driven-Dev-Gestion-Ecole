@@ -1,4 +1,6 @@
 # TestDrivenDev---GestionEcole
 Développement piloté par les tests
 
-Système d’information permettant la gestiond’une école (enregistrement des élèves, notes, horairedes cours, facturation, dossier étudiant, etc.)
+- Cours de Programmation agile 
+- Cegep de Saint-Jean-sur-Richelieu A2017
+- Objectif : Développer un système d’information permettant la gestion d’une école en utilisant la methodologie de développement piloté par les tests.
